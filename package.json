@@ -1,0 +1,29 @@
+{
+  "name": "nft-hardhat-tut",
+  "version": "1.0.0",
+  "description": "Tutorial with NFT on Hardhat from step zero.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmartITengineer/nft-hardhat-tut.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SmartITengineer/nft-hardhat-tut/issues"
+  },
+  "homepage": "https://github.com/SmartITengineer/nft-hardhat-tut#readme",
+  "dependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.5",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "@openzeppelin/contracts": "^4.5.0",
+    "chai": "^4.3.6",
+    "ethereum-waffle": "^3.4.4",
+    "ethers": "^5.6.2",
+    "hardhat": "^2.9.2"
+  }
+}
